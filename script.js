@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Welcome to Paul Troves! Let's build something amazing 🚀");
+  alert("Welcome to Paul Trove! Let's build something amazing 🚀");
 }
